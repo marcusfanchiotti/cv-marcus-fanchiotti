@@ -1,0 +1,32 @@
+header{
+	font-size: 13px;
+	line-height: 0.7;
+	margin-right:0px;
+	border-top: 1px solid #000000;
+	
+}
+
+header h1{
+	text-orientation: 10px;
+}
+
+body{
+	border-left: 1px solid #000000;
+	border-right:1px solid #000000;
+	margin-right: 450px;
+}
+ 
+footer{
+  	text-align: center;
+  	border-bottom: 1px solid #000000;
+  	margin-right: 0px;
+  	
+}
+
+nav b:hover{
+	font-size:25px;
+	color: #278493;
+	cursor:pointer;
+	transition:1s 
+}
+
